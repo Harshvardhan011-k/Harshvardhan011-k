@@ -86,12 +86,6 @@ A deep learning model for forecasting stock prices using historical market data.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshvardhan011-k&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
 ---
 
 ## 🌐 Find Me On
