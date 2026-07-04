@@ -55,10 +55,6 @@
 
 An intelligent healthcare platform featuring doctor-patient interaction, medicine recommendations, and AI-driven health insights.
 
-### 🤖 Personal Research Assistant
-
-An AI agent that searches, analyzes, and summarizes information from multiple sources.
-
 ### 🧠 Mental Health Analysis Chatbot
 
 A chatbot that analyzes user inputs and provides mental wellness insights using NLP techniques.
